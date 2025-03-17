@@ -1,0 +1,5 @@
+# Ignore the model file in ESRGAN
+ESRGAN/models/RRDB_ESRGAN_x4.pth
+
+# Ignore everything in ESRGAN
+ESRGAN/*
